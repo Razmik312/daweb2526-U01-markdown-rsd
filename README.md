@@ -46,3 +46,6 @@ public class Hola {
 |:-------|:----:|:----------|
 | Ana    |  25 | Granada   |
 | Juan   |  30 | Jaén      |
+
+
+[Enlace para ver CHANGELOG](./CHANGELOG.md)
